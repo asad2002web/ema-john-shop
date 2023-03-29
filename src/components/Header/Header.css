@@ -1,0 +1,30 @@
+img{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+/* Common CSS */
+.header{
+    background-color: #1C2B35;
+}
+.header-menu{
+    max-width: 1240px;
+    margin: 0 auto;
+    display: flex;
+    height: 80px;
+    justify-content: space-between;
+    align-items: center;
+}
+.menu-items a{
+    color: #fff;
+    margin-left: 20px;
+    font-size: 17px;
+}
+.menu-items a:hover{
+    color: #ffa500;
+}
