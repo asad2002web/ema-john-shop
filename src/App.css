@@ -2,7 +2,9 @@
 body{
   font-family: 'Lato', sans-serif;
 }
-
+h6,p{
+  margin: 0;
+}
 
 @keyframes logo-spin {
   from {
